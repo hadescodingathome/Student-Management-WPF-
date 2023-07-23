@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Tùng Dương",
+    "Gender": 0,
+    "Birthday": "1900-01-01T00:00:00",
+    "Address": "Quảng Ninh",
+    "IsDeleted": false,
+    "STT": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Ánh Dương",
+    "Gender": 1,
+    "Birthday": "1900-01-01T00:00:00",
+    "Address": "Hà Nội",
+    "IsDeleted": false,
+    "STT": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Chí Quân",
+    "Gender": 0,
+    "Birthday": "1900-01-01T00:00:00",
+    "Address": "Thanh Hoá",
+    "IsDeleted": false,
+    "STT": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Đình Tiến ",
+    "Gender": 0,
+    "Birthday": "1900-01-01T00:00:00",
+    "Address": "Hà Nội",
+    "IsDeleted": false,
+    "STT": 4
+  }
+]
